@@ -1,0 +1,18 @@
+/* 
+Theme Name: Launcher
+Theme URI:
+Author: LSI
+Author URI: https://shahinislam.com
+Description:Our First HyperMinimal Theme
+Vertion: 1.0
+License:GNU General Public License v2 or later
+License URI:http://www.gnu.org/licenses/gpl-2.0.html
+Tags:blog, education
+Text Domain: launcher
+*/
+
+#fh5co-aside #fh5co-logo a {
+    font-weight: 800;
+    letter-spacing: -3px;
+    color: #222!important;
+}
